@@ -1,5 +1,6 @@
-/* When I inspect the authors the last two are taking up more space than what it looks like which you can see through inspect*//`
-.octocat img{
+/* When I inspect the authors the last two are taking up more space than what it looks like which you can see through inspect*/
+
+.octocat img {
 	width: 300px;
 	height: auto;
 	border: 1px ridge grey;
